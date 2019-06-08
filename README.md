@@ -1,4 +1,4 @@
 # git-test
 text 1
-text 2
-text 4
+text 1
+text 1
